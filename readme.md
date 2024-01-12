@@ -34,6 +34,8 @@ Projects that target multiple IP cameras or use generic Linux interfaces.
 - [gsoap ONVIF examples](https://www.genivia.com/examples/onvif/index.html)
 - [libonvif](https://github.com/sr99622/libonvif)
 - [libONVIF](https://github.com/Tereius/libONVIF)
+- [onvif](https://github.com/agsh/onvif) - Javascript client
+- [onvif](https://github.com/use-go/onvif) - Go client
 
 #### Servers
 
